@@ -4,10 +4,10 @@ This is a simple todo list withoud MySql or GUI. It wont save if you quit. Begin
 ## For Who?
 This project is for people who want to practice with open sources. 
 
-## Neden?
+## Why?
 Practicing makes perfect. This beginner friendly project, can help you
 
-## Dosya Yerleri
+## File Places
 
 |              Soru                 |             Yer/Ad                |
 |-------------------------------|-----------------------------|
